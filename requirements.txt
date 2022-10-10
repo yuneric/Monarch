@@ -116,7 +116,7 @@ rioxarray==0.12.2
 
 #scikit-learn-intelex==2021.20220215.102710
 
-sip==4.19.13
+#sip==4.19.13
 
 snuggs==1.4.7
 sqlparse==0.4.3
