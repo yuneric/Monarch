@@ -1,1 +1,1 @@
-web: gunicorn Monarch Website (Last Ver):app
+web: gunicorn site: app
