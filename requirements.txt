@@ -10,3 +10,4 @@ pycosat==0.6.3
 #pandas @ file:///C:/ci/pandas_1650373458095/work
 #plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
 gunicorn==20.1.0
+pandas==1.4.2
