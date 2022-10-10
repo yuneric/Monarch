@@ -1,1 +1,1 @@
-web: gunicorn site:server
+web: gunicorn monarch:server
