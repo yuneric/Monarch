@@ -1,6 +1,6 @@
 affine==2.3.1
 
-anaconda-navigator==2.2.0
+#anaconda-navigator==2.2.0
 
 appdirs==1.4.4
 
