@@ -2,10 +2,10 @@ dash==2.6.2
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+#aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 backports.weakref==1.0.post1
-googleapis-common-protos @ file:///C:/ci/googleapis-common-protos-feedstock_1617957814607/work
-nose @ file:///opt/conda/conda-bld/nose_1642704612149/work
+#googleapis-common-protos @ file:///C:/ci/googleapis-common-protos-feedstock_1617957814607/work
+#nose @ file:///opt/conda/conda-bld/nose_1642704612149/work
 pycosat==0.6.3
-pandas @ file:///C:/ci/pandas_1650373458095/work
-plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
+#pandas @ file:///C:/ci/pandas_1650373458095/work
+#plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
