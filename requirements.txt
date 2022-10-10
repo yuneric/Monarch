@@ -58,7 +58,6 @@ gunicorn==20.1.0
 
 inflection==0.5.1
 
-INSTALL_ON_LINUX=1
 
 
 llvmlite==0.38.0
