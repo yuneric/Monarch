@@ -127,7 +127,7 @@ sudo==1.0.0
 
 tables==3.6.1
 tabulate==0.8.9
-TBB==0.2
+#TBB==0.2
 
 
 tzdata==2022.4
