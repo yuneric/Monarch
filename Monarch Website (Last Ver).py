@@ -21,6 +21,8 @@ import csv
 
 app = dash.Dash(__name__)
 
+server = app.server
+
 app.layout = html.Div(children=[
     html.H1('M3 Monarch Migration Study'),
 
